@@ -1,1 +1,1 @@
-# Ballooning_Molecules
+Another branch from my school's hihg altitude ballooning project. I used the PPD42NS particulate sensor and a MQ-3 gas sensor to measure the levels of PM-1 particles, methane and carbon monoxide in the stratosphere
